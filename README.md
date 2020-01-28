@@ -1,4 +1,3 @@
 # BASIC TYPOGRAPHY LIBRARY
-
-## Documentation
-There is nothing right now...
+I'm working on it...
+> Well, this little maneuver's gonna cost us 51 years!
