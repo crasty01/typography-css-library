@@ -1,3 +1,11 @@
 # BASIC TYPOGRAPHY LIBRARY
-I'm working on it...
-> Well, this little maneuver's gonna cost us 51 years!
+
+Plan:
+[x] Headings + deffrent types of text (strong, marked...)
+[x] Blockquotes
+[] Buttons (disabled, outlined, clear ...)
+[] Lists (ul, ol, dl)
+[] Forms (fields, radio, checkbox, text area ...)
+[] Tables
+[] Codes
+[] Floats
