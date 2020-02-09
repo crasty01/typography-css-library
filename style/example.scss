@@ -1,0 +1,40 @@
+// Other selectors, mainly for example purposes
+
+
+.space-after {
+  margin-bottom: 5rem;
+}
+
+.heading-font-size {
+  color: #999;
+  font-size: 1.2rem;
+  letter-spacing: normal;
+}
+
+.wrapper {
+  display: block;
+  overflow: hidden;
+  position: relative;
+  width: 100%
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 112.0rem;
+  padding: 0 2.0rem;
+  position: relative;
+  width: 100%;
+}
+
+.wrapper .container {
+  max-width: 80rem
+}
+
+.wrapper>.container {
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem
+}
+
+form {
+  max-width: 35rem;
+}
