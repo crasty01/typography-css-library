@@ -4,8 +4,10 @@ Plan:
 - [x] Headings + deffrent types of text (strong, marked...)
 - [x] Blockquotes
 - [x] Buttons (disabled, outlined, clear ...)
-- [ ] Lists (ul, ol, dl)
+- [x] Lists (ul, ol, dl)
 - [x] Forms (fields, radio, checkbox, text area ...)
-- [ ] Tables
+- [x] Tables
 - [x] Codes
-- [ ] Floats
+- [x] Floats
+- [ ] Documentation
+- [ ] Print css

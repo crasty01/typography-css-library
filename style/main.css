@@ -272,6 +272,35 @@ a:focus, a:hover {
   color: #11294d;
 }
 
+dl,
+ol,
+ul {
+  list-style: none;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+dl dl,
+dl ol,
+dl ul,
+ol dl,
+ol ol,
+ol ul,
+ul dl,
+ul ol,
+ul ul {
+  font-size: 90%;
+  margin: 1.5rem 0 1.5rem 3.0rem;
+}
+
+ol {
+  list-style: decimal inside;
+}
+
+ul {
+  list-style: circle inside;
+}
+
 .button,
 button,
 dd,
@@ -297,6 +326,28 @@ pre,
 table,
 ul {
   margin-bottom: 2.5rem;
+}
+
+table {
+  border-spacing: 0;
+  width: 100%;
+}
+
+td,
+th {
+  border-bottom: 0.1rem solid #e1e1e1;
+  padding: 1.2rem 1.5rem;
+  text-align: left;
+}
+
+td:first-child,
+th:first-child {
+  padding-left: 0;
+}
+
+td:last-child,
+th:last-child {
+  padding-right: 0;
 }
 
 b,
@@ -353,5 +404,23 @@ h6 {
   font-size: 1.6rem;
   letter-spacing: 0;
   line-height: 1.4;
+}
+
+img {
+  max-width: 100%;
+}
+
+.clearfix:after {
+  clear: both;
+  content: ' ';
+  display: table;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
 }
 /*# sourceMappingURL=main.css.map */
