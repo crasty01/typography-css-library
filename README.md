@@ -48,4 +48,12 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 
 standard quote tag `<q>` have „“
 
-standard blockquote syntax is `<blockquote><p>quote</p><span class="quote-author">autor</span></blockquote>`
+standard blockquote syntax is
+`<blockquote>`
+  `<p>`
+    quote
+  `</p>`
+  `<span class="quote-author">`
+    autor
+  `</span>`
+`</blockquote>`
