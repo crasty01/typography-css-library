@@ -55,14 +55,32 @@ standard quote tag `<q>` is „quote“
 #### Blockquotes
 
 standard blockquote syntax is:
-`
-          <blockquote>
-            <p>
-              Your quote
-            </p>
-            <span class="quote-author">Author</span>
-          </blockquote>
-`
+
 ![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/blockquote.jpg)
 
+### BUTTONS
 
+#### Works for
+
+`<a class="button">`
+`<button>`
+`<input type="submit">`
+`<input type="reset">`
+`<input type="button">`
+`<div class="button">`
+
+#### Types
+
+Buttons are either enabled or disabled.
+
+Buttons can be default (filled), outlined or clear.
+
+### LISTS
+
+Typen can formate unordered list, ordered list or description list
+
+### FORMS
+
+Typen can format all fields (Text, Email, Number, Password, Select, Search, Tel, URL, Radio, Checkbox, Textarea), legend, label, and buttons reset and submit.
+
+### TABLES
