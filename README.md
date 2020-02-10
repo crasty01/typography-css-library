@@ -34,4 +34,4 @@ Optionally you can either edit main.css or (if you have sass/scss compiler) .scs
 
 ## USAGE
 
-Theoretically, you don't have to do anything - just link the file and that's it. Practically, you have to do the whole rest of your project :upside-down:
+Theoretically, you don't have to do anything - just link the file and that's it. Practically, you have to do the whole rest of your project 🙃
