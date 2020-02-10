@@ -88,3 +88,25 @@ Typen can format all fields (Text, Email, Number, Password, Select, Search, Tel,
 standard table syntax is:
 
 ![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/table.jpg)
+
+### CODES
+
+Typen can format your code. The best way is use in combination with `<pre>` tag (preserves spaces and line breaks).
+
+![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/code.jpg)
+
+### IMAGES
+
+Typen formates your images just elementally. The best way is use in combination in `<figure>` and `<figcaption>` tags
+
+![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/img.jpg)
+
+### FLOATS
+
+For fast way to float just use `class="float-right"` or `class="float-left"`.
+
+## THE END
+
+Live long and prosper 🖖
+
+Created by [Daniel Vondra](https://danielvondra.tk)
