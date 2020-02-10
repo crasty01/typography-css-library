@@ -23,6 +23,10 @@ input[type='submit'] {
   text-transform: uppercase;
   white-space: nowrap;
 
+  transition: background-color 250ms ease-in-out,
+    border-color 250ms ease-in-out,
+    color 250ms ease-in-out;
+
   &:focus,
   &:hover {
     background-color: $color-secondary;

@@ -9,6 +9,6 @@ Plan:
 - [x] Tables
 - [x] Codes
 - [x] Floats
-- [ ] Images
+- [x] Images
 - [ ] Documentation
 - [ ] Print css

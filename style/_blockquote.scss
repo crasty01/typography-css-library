@@ -6,8 +6,37 @@ blockquote {
   margin-left: 0;
   margin-right: 0;
   padding: 1rem 1.5rem;
+  font-style: italic;
+
+  &>p {
+    margin-bottom: 1rem;
+  }
+
+  & .quote-author {
+    display: block;
+
+    &::before {
+      content: '\2014';
+      margin-right: .75rem;
+      display: inline;
+    }
+  }
+
+  *:last-child {
+    margin-bottom: 0;
+  }
 }
 
-*:last-child {
-  margin-bottom: 0;
+q,
+blockquote>p {
+  font-style: italic;
+
+  &::before {
+    content: '\201E';
+  }
+
+  &::after {
+    content: '\201C';
+
+  }
 }
