@@ -1,4 +1,4 @@
-# BASIC TYPOGRAPHY LIBRARY
+# TYPEN
 
 Plan:
 - [x] Headings + deffrent types of text (strong, marked...)
@@ -14,4 +14,11 @@ Plan:
 - [ ] Print css
 
 
-# DOCUMENTATION
+## DESCRIPTION
+
+Typen is a typographic library created with SCSS (.scss), created as a school project.
+It includes styles for headlines, special text markups (links, code, strong, q ...), images (with figcaption), lists (ul, ol, dl), basic tables, forms, buttons, and more.
+Roboto is used by default.
+
+## TABLE OF CONTENT
+
