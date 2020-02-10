@@ -40,7 +40,12 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 
 ### TYPOGRAPHY
 
-H1 is 46PX, H2 is 36PX, H3 is 28PX, H4 is 22PX, H5 is 18PX, H6 is 16PX
+`<h1>` is 46px, `<h2>` is 36px, `<h3>` is 28px, `<h4>` is 22px, `<h5>` is 18px, `<h6>` is 16px
 
+`<u>`, `<s>`, `<i>`, `<b>`, `<time>`, `<mark>`, `<small>`, `<strong>`, `<em>`, `<a>`
 
-u, s, i, b, time, mark, small, strong, em, a
+### QUOTES ANDD BLOCKQUOTES
+
+standard quote tag `<q>` have „“
+
+standard blockquote syntax is `<blockquote><p>quote</p><span class="quote-author">autor</span></blockquote>`
