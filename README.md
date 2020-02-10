@@ -1,18 +1,6 @@
 # TYPEN
 
-Plan:
-- [x] Headings + deffrent types of text (strong, marked...)
-- [x] Blockquotes
-- [x] Buttons (disabled, outlined, clear ...)
-- [x] Lists (ul, ol, dl)
-- [x] Forms (fields, radio, checkbox, text area ...)
-- [x] Tables
-- [x] Codes
-- [x] Floats
-- [x] Images
-- [x] Documentation
-- [ ] Print css
-
+You can check the example [here](https://crasty01.github.io/typen/).
 
 ## DESCRIPTION
 
@@ -33,6 +21,7 @@ Roboto is used by default.
     6. [Tables](#Tables)
     7. [Codes](#Codes)
     8. [Images](#Images)
+4. [Plan](#Plan)
 4. [End](#End)
 
 ## INSTALLATION
@@ -115,6 +104,21 @@ Typen formates your images just elementally. The best way is use in combination 
 ### FLOAT
 
 For fast way to float just use `class="float-right"` or `class="float-left"`.
+
+
+## PLAN
+
+- [x] Headings + deffrent types of text (strong, marked...)
+- [x] Blockquotes
+- [x] Buttons (disabled, outlined, clear ...)
+- [x] Lists (ul, ol, dl)
+- [x] Forms (fields, radio, checkbox, text area ...)
+- [x] Tables
+- [x] Codes
+- [x] Floats
+- [x] Images
+- [x] Documentation
+- [ ] Print css
 
 ## THE END
 
