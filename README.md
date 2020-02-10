@@ -52,4 +52,5 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 standard quote tag `<q>` have „“
 
 standard blockquote syntax is:
+
 ![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/blockquote.jpg)
