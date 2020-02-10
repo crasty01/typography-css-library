@@ -22,7 +22,18 @@ Roboto is used by default.
 
 ## TABLE OF CONTENT
 
-
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [Docs](#Docs)
+  1. [Typography](#Typography)
+  2. [Quotes and blockquotes](##quotes-and-blockquotes)
+  3. [Buttons](#Buttons)
+  4. [Lists](#Lists)
+  5. [Forms](#Forms)
+  6. [Tables](#Tables)
+  7. [Codes](#Codes)
+  8. [Images](#Images)
+4. [End](#End)
 
 ## INSTALLATION
 
@@ -46,7 +57,7 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 #### Usable markdown tags
 `<u>`, `<s>`, `<i>`, `<b>`, `<time>`, `<mark>`, `<small>`, `<strong>`, `<em>`, `<a>`
 
-### QUOTES ANDD BLOCKQUOTES
+### QUOTES AND BLOCKQUOTES
 
 #### Quotes
 
@@ -101,7 +112,7 @@ Typen formates your images just elementally. The best way is use in combination 
 
 ![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/img.jpg)
 
-### FLOATS
+### FLOAT
 
 For fast way to float just use `class="float-right"` or `class="float-left"`.
 
