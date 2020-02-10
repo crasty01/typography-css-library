@@ -40,20 +40,16 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 
 ### TYPOGRAPHY
 
+#### Usable headlines and their sizes
 `<h1>` is 46px, `<h2>` is 36px, `<h3>` is 28px, `<h4>` is 22px, `<h5>` is 18px, `<h6>` is 16px
 
+#### Usable markdown tags
 `<u>`, `<s>`, `<i>`, `<b>`, `<time>`, `<mark>`, `<small>`, `<strong>`, `<em>`, `<a>`
 
 ### QUOTES ANDD BLOCKQUOTES
 
+#### Quotes
 standard quote tag `<q>` have „“
 
 standard blockquote syntax is:
-<pro>
-`<blockquote>`
-  `<p>`
-    quote
-  `</p>`
-  `<span class="quote-author">`autor`</span>`
-`</blockquote>`
-</pro>
+![blockquote](../example-images/blockquote.jpg)
