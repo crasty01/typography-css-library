@@ -10,7 +10,7 @@ Plan:
 - [x] Codes
 - [x] Floats
 - [x] Images
-- [ ] Documentation
+- [x] Documentation
 - [ ] Print css
 
 
