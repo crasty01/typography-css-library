@@ -40,7 +40,7 @@ Theoretically, you don't have to do anything - just link the file and that's it.
 
 ### TYPOGRAPHY
 
-<H1> is 46PX, <H2> is 36PX, <H3> is 28PX, <H4> is 22PX, <H5> is 18PX, <H6> is 16PX
+H1 is 46PX, H2 is 36PX, H3 is 28PX, H4 is 22PX, H5 is 18PX, H6 is 16PX
 
 
 <u>, <s>, <i>, <b>, <time>, <mark>, <small>, <strong>, <em>, <a>
