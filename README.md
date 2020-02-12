@@ -56,7 +56,14 @@ standard quote tag `<q>` is „quote“
 
 standard blockquote syntax is:
 
-![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/blockquote.jpg)
+'''html
+<blockquote>
+  <p>
+    Your quote
+  </p>
+  <span class="quote-author">Autor name</span>
+</blockquote>
+'''
 
 ### BUTTONS
 
@@ -87,7 +94,26 @@ Typen can format all fields (Text, Email, Number, Password, Select, Search, Tel,
 
 standard table syntax is:
 
-![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/table.jpg)
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Height</th>
+      <th>Favourite food</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leroy Kay</td>
+      <td>13</td>
+      <td>2.06 m</td>
+      <td>Pizza</td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ### CODES
 
