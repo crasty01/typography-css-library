@@ -56,14 +56,14 @@ standard quote tag `<q>` is „quote“
 
 standard blockquote syntax is:
 
-'''html
+```html
 <blockquote>
   <p>
     Your quote
   </p>
   <span class="quote-author">Autor name</span>
 </blockquote>
-'''
+```
 
 ### BUTTONS
 
@@ -119,13 +119,24 @@ standard table syntax is:
 
 Typen can format your code. The best way is use in combination with `<pre>` tag (preserves spaces and line breaks).
 
-![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/code.jpg)
+```html
+<pre><code>code {
+  background: $color-tertiary;
+  border-radius: .4rem;
+  font-size: 86%;
+}</code></pre>
+```
 
 ### IMAGES
 
 Typen formates your images just elementally. The best way is use in combination in `<figure>` and `<figcaption>` tags
 
-![blockquote](https://github.com/pslib-cz/2019l4web-typography-css-library-crasty01/blob/master/example-images/img.jpg)
+```html
+<figure>
+  <img src="#" alt="alt text">
+  <figcaption>description</figcaption>
+</figure>
+```
 
 ### FLOAT
 
