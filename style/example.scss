@@ -27,14 +27,11 @@
 }
 
 main {
-  max-width: 80rem
+  max-width: 80rem;
+  margin: 0 auto;
 }
 
 .wrapper>.container {
   padding-bottom: 7.5rem;
   padding-top: 7.5rem
-}
-
-form {
-  max-width: 35rem;
 }
