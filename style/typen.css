@@ -398,8 +398,7 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+h5 {
   font-weight: 600;
   letter-spacing: -.1rem;
   margin-bottom: .750em;
@@ -432,12 +431,6 @@ h5 {
   font-size: 1.8rem;
   letter-spacing: -.05rem;
   line-height: 1.5;
-}
-
-h6 {
-  font-size: 1.6rem;
-  letter-spacing: 0;
-  line-height: 1.4;
 }
 
 img {
